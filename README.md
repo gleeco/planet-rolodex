@@ -64,7 +64,7 @@ If the demo data was loaded, basic queries should already work:
 
 ### Ceveats
 
-Warts 'n all here.  Due to timeboxing (and rat holing!), a few issues exist
+Warts 'n all here.  Due to timeboxing (and rat holeing!), a few issues and ruminations:
 
 * lots of exceptions not handled, but fully recognized
 
